@@ -1,0 +1,34 @@
+a:link{color:yellow}
+h1{
+color: #F075AA;
+text-align:center;
+font-size:36px;
+font-family: Arial, sans-serif;
+padding:3px;
+}
+h2{
+color: #8D493A;
+border:5px;
+text-align:center;
+font-family: Arial, sans-serif;
+}
+h3{
+color: #8D493A;
+border:5px;
+font-family: Arial, sans-serif;
+display:inline;
+text-align:center;
+margin:160px;
+}
+body{
+color: #8D493A ;
+font-family: 'Courier New', Courier, monospace;
+background-color:white;
+}
+a{
+margin-right:160px;
+}
+.highlight{
+    color:#ADD899;
+    font-style:italic;
+}
